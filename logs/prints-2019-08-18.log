@@ -1,0 +1,9 @@
+10:26:56.918 [main] INFO  resources.base - Restrcited User
+10:27:09.275 [main] INFO  resources.base - Non restricted user
+18:20:43.723 [main] INFO  resources.base - Restrcited User
+13:36:54.468 [main] INFO  resources.base - Restrcited User
+13:37:06.530 [main] INFO  resources.base - Non restricted user
+13:39:55.643 [main] TRACE resources.base - Restrcited User
+13:40:05.479 [main] TRACE resources.base - Non restricted user
+13:55:53.674 [main] DEBUG resources.base - Restrcited User
+13:56:03.882 [main] DEBUG resources.base - Non restricted user
